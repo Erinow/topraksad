@@ -1,8 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 
-### Hi İm There Well <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+### Hi İm There Leloo <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben Well Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
+<p align="left">Selam, Ben Leloo Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
 
 
 ### Software Languages
@@ -19,7 +19,7 @@
  <a href="https://www.instagram.com/slmb3ntoprak" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/wellxd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wellxd" alt="adonciai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lelooxd" alt="lelooxd" /> </p>
 
 
 
