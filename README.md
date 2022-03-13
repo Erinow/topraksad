@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 
-### Hi İm There Toprak <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
+### Hi İm There Toprak <img src="https://cdn.discordapp.com/role-icons/892146403697115176/0e5589da8d9e2386e948c3643c6b9f45.png?size=20" height="20px"></h2>
 
 <p align="left">Selam, Ben Toprak Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
 
