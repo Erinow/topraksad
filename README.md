@@ -4,6 +4,11 @@
 
 <p align="left">Selam, Ben Toprak Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
 
+![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
+[![GitHub topraksad](https://img.shields.io/github/followers/topraksad?label=follow&style=social)](https://github.com/topraksad)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+
 
 ### Software Languages
 
