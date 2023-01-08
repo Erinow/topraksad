@@ -9,8 +9,6 @@
 [![GitHub topraksad](https://img.shields.io/github/followers/erinow?label=follow&style=social)](https://github.com/topraksad)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-https://api.lanyard.rest/v1/users/918910041447350303
-
 
 ### Software Languages
 
